@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gustavo Gonçalves</h1>
-<h3 align="center">A Cybersecurity Consultant at EY passionate about DevSecOps and CloudSecurity</h3>
+<h3 align="center">A Cybersecurity Consultant passionate about DevSecOps and CloudSecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gstvalentin&label=Profile%20views&color=0e75b6&style=flat" alt="gstvalentin" align="center" />  <a href="https://linkedin.com/in/gstgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gstgoncalves" height="15" width="20" /></a></p>
 
