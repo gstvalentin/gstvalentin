@@ -22,7 +22,9 @@ Microsoft and Linux operating systems (Ubuntu and Kali); <img src="https://img.i
 
 Infrastructure as Code (IaC) and DevOps culture (Ansible, Terraform, Docker and Kurbenetes); <img src="https://img.icons8.com/fluency/96/000000/ansible.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/fluency/96/000000/terraform.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/fluency/96/000000/docker.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/color/96/000000/kubernetes.png" alt="Aws" align="center" width="20" height="20"/> 
 
-Security practices and pentesting on the TryHackMe platform; <img src="https://tryhackme.com/img/favicon.png" alt="Aws" align="center" width="20" height="20"/> 
+Privacy and data protection with OneTrust Plataform;  <img src="https://www.onetrust.com/br/wp-content/uploads/2021/06/20200729-OneTrust-CMYK-GreenBG.png" alt="Aws" align="center" width="50" height="20"/> 
+
+Security practices, network security and pentesting (TryHackMe and Cisco); <img src="https://tryhackme.com/img/favicon.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://marcas-logos.net/wp-content/uploads/2020/03/Cisco-Logo-Antigo.jpg" alt="Aws" align="center" width="30" height="20"/> 
 
 Office 365 and PowerBI; <img src="https://img.icons8.com/color/96/000000/office-365.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Aws" align="center" width="20" height="20"/> 
 
@@ -33,7 +35,7 @@ AWS Certified Cloud Practitioner <br>
 AZ-900: Microsoft Certified: Azure Fundamentals<br>
 SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals <br>
 OneTrust Fellow of Privacy Technology<br>
-Alura DevOps<br>
+
 
 <h2 align="left">Contributions</h2>
 
