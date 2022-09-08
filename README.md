@@ -7,7 +7,7 @@
 
 I’m currently working as Consultant at [EY](https://www.ey.com/) with maturity assessment using the main information security frameworks (ISO/IEC 27001 and 27701, NIST CSF, NIST 800-53, LGPD and GDPR);
 
-I am curious, adaptable, and easygoing. I am always open to new challenges. I really enjoy cycling, exercising and Capture The Flag (CTF) in my free time.
+I am curious, adaptable, and easygoing. I am always open to new challenges.
 
 <h2 align="left"> knowledge </h2>
 
