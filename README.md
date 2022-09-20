@@ -22,6 +22,8 @@ Microsoft and Linux operating systems (Ubuntu and Kali); <img src="https://img.i
 
 Infrastructure as Code (IaC) and DevOps culture (Ansible, Terraform, Docker and Kurbenetes); <img src="https://img.icons8.com/fluency/96/000000/ansible.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/fluency/96/000000/terraform.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/fluency/96/000000/docker.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/color/96/000000/kubernetes.png" alt="Aws" align="center" width="20" height="20"/> 
 
+CI/CD continuous integration and delivery (Jenkins, GitHub, GitLab) <img src="https://img2.gratispng.com/20180515/zxe/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799e222331.1197773615263645741398.jpg" alt="Aws" align="center" width="20" height="20"/>  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" alt="Aws" align="center" width="20" height="20"/> 
+
 Privacy and data protection with OneTrust Plataform;  <img src="https://www.onetrust.com/br/wp-content/uploads/2021/06/20200729-OneTrust-CMYK-GreenBG.png" alt="Aws" align="center" width="50" height="20"/> 
 
 Security practices, network security and pentesting (TryHackMe and Cisco); <img src="https://tryhackme.com/img/favicon.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://marcas-logos.net/wp-content/uploads/2020/03/Cisco-Logo-Antigo.jpg" alt="Aws" align="center" width="30" height="20"/> 
