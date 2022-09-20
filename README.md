@@ -7,9 +7,7 @@ Profile, Courses and Certs: <a href="https://linkedin.com/in/gstgoncalves" targe
 
 <h2 align="left"> Bio </h2>
 
-I’m currently working as Consultant at [EY](https://www.ey.com/) with maturity assessment using the main information security frameworks (ISO/IEC 27001 and 27701, NIST CSF, NIST 800-53, LGPD and GDPR);
-
-I am curious, adaptable, and easygoing. I am always open to new challenges.
+I’m currently working as Cybersecurity Consultant at [EY](https://www.ey.com/). I am curious, adaptable, and easygoing. I am always open to new challenges.
 
 <h2 align="left"> knowledge </h2>
 
@@ -30,6 +28,7 @@ Security practices, network security and pentesting (TryHackMe and Cisco); <img 
 
 Office 365 and PowerBI; <img src="https://img.icons8.com/color/96/000000/office-365.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Aws" align="center" width="20" height="20"/> 
 
+Security frameworks and privacy laws (ISO/IEC 27001 and 27701, NIST CSF, NIST 800-53, LGPD and GDPR)
 
 <h2 align="left">Main certifications</h2>
 
