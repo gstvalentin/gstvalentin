@@ -20,13 +20,15 @@ Script development (ShellScript and Python); <img src="https://camo.githubuserco
 
 Microsoft and Linux operating systems (Ubuntu and Kali); <img src="https://img.icons8.com/color/96/000000/windows-10.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/plasticine/100/000000/kali-linux.png" alt="Aws" align="center" width="20" height="20"/> 
 
-Infrastructure as Code (IaC) and DevOps culture (Ansible, Terraform, Docker and Kurbenetes); <img src="https://img.icons8.com/fluency/96/000000/ansible.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/fluency/96/000000/terraform.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/fluency/96/000000/docker.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/color/96/000000/kubernetes.png" alt="Aws" align="center" width="20" height="20"/> 
+Infrastructure as Code (IaC) and DevSecOps culture; <img src="https://www.primecontrol.com.br/wp-content/uploads/2019/10/diagrama-devsecops.png" alt="Aws" align="center" width="20" height="20"/> 
 
-CI/CD continuous integration and delivery (GitHub, GitLab) <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" alt="Aws" align="center" width="20" height="20"/> 
+Delivery pipelines and CI/CD continuous integration (GitHub, GitLab) <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" alt="Aws" align="center" width="20" height="20"/> 
 
-Privacy and data protection with OneTrust Plataform;  <img src="https://www.onetrust.com/br/wp-content/uploads/2021/06/20200729-OneTrust-CMYK-GreenBG.png" alt="Aws" align="center" width="50" height="20"/> 
+Implementation of SAST/DAST in secure pipelines; 
 
 Security practices, network security and pentesting (TryHackMe and Cisco); <img src="https://tryhackme.com/img/favicon.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://marcas-logos.net/wp-content/uploads/2020/03/Cisco-Logo-Antigo.jpg" alt="Aws" align="center" width="30" height="20"/> 
+
+Privacy and data protection with OneTrust Plataform;  <img src="https://www.onetrust.com/br/wp-content/uploads/2021/06/20200729-OneTrust-CMYK-GreenBG.png" alt="Aws" align="center" width="50" height="20"/> 
 
 Office 365 and PowerBI; <img src="https://img.icons8.com/color/96/000000/office-365.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Aws" align="center" width="20" height="20"/> 
 
