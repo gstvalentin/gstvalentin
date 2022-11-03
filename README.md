@@ -28,7 +28,7 @@ Implementation of SAST/DAST in secure pipelines;
 
 Security practices, network security and pentesting (TryHackMe and Cisco); <img src="https://tryhackme.com/img/favicon.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://marcas-logos.net/wp-content/uploads/2020/03/Cisco-Logo-Antigo.jpg" alt="Aws" align="center" width="30" height="20"/> 
 
-Privacy and data protection with OneTrust Plataform;  <img src="https://www.onetrust.com/br/wp-content/uploads/2021/06/20200729-OneTrust-CMYK-GreenBG.png" alt="Aws" align="center" width="50" height="20"/> 
+Privacy and data protection with OneTrust Plataform;  <img src="https://www.onetrust.com/br/wp-content/uploads/2021/06/20200729-OneTrust-CMYK-GreenBG.png" alt="Aws" align="center" width="40" height="20"/> 
 
 Office 365 and PowerBI; <img src="https://img.icons8.com/color/96/000000/office-365.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Aws" align="center" width="20" height="20"/> 
 
