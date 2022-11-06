@@ -20,7 +20,7 @@ Script development (ShellScript and Python); <img src="https://camo.githubuserco
 
 Microsoft and Linux operating systems (Ubuntu and Kali); <img src="https://img.icons8.com/color/96/000000/windows-10.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://img.icons8.com/plasticine/100/000000/kali-linux.png" alt="Aws" align="center" width="20" height="20"/> 
 
-Infrastructure as Code (IaC) and DevSecOps culture; <img src="https://www.primecontrol.com.br/wp-content/uploads/2019/10/diagrama-devsecops.png" alt="Aws" align="center" width="50" height="20"/> 
+Infrastructure as Code (IaC) and DevSecOps culture; <img src="https://www.primecontrol.com.br/wp-content/uploads/2019/10/diagrama-devsecops.png" alt="Aws" align="center" width="40" height="20"/> 
 
 Delivery pipelines and CI/CD continuous integration (GitHub, GitLab) <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" alt="Aws" align="center" width="20" height="20"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" alt="Aws" align="center" width="20" height="20"/> 
 
